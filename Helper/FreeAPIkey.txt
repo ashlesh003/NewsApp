@@ -1,0 +1,6 @@
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=de3fbf0d79914b02a10253d6c7f9e19c
+URL-1:
+let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dbe57b028aeb41e285a226a94865f7a7&page=1&pageSize=${this.props.pageSize}`;
+
+URL-2:
+let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dbe57b028aeb41e285a226a94865f7a7&page=1&pageSize=${this.props.pageSize}`;
