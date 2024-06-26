@@ -1,7 +1,7 @@
 # NewsApp - React App
 This is a Web Appliction Project for Reading a day to day life news 
 
-<u><b>"Discover the latest articles and breaking news headlines"</b></u>
+<b>"Discover the latest articles and breaking news headlines"</b>
 <ul>
   <li> This is a Web Appliction Project for Reading a day to day life news online. </li>
   <li> Currently, This project gives the indian news. But we can also improve this project with feature like select country by user. </li>
@@ -18,6 +18,11 @@ This is a Web Appliction Project for Reading a day to day life news
     </ol>
   </li>
 </ul>
+
+
+
+
+
 
 
 # Getting Started with Create React App
