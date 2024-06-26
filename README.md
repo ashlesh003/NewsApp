@@ -19,11 +19,13 @@ This is a Web Appliction Project for Reading a day to day life news
   </li>
 </ul>
 
+<pre>
 
 
 
 
-
+  
+</pre>
 
 # Getting Started with Create React App
 
