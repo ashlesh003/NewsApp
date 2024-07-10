@@ -3,10 +3,10 @@ This is a Web Appliction Project for Reading a day to day life news
 
 <b>"Discover the latest articles and breaking news headlines"</b>
 <ul>
-  <li> This is a Web Appliction Project for Reading a day to day life news online. </li>
-  <li> Currently, This project gives the indian news. But we can also improve this project with feature like select country by user. </li>
-  <li> It involves API Integration for daily news. </li>
-  <li> It provide various categories of news like: 
+  <li> This is a Web Application Project for Reading day-to-day life news online. </li>
+  <li> Currently, this project gives the Indian news. But we can also improve this project with features like selecting country by user. </li>
+  <li> It involves API Integration for fetching daily news. </li>
+  <li> It provides various categories of news like: 
     <ol>
       <li> BUSINESS </li>
       <li> ENTERTAINMENT </li>
